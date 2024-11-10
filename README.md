@@ -84,3 +84,4 @@
 | ![](https://avatars.steamstatic.com/b96d7c30676b3f303c7f32af93c93688928114c9.jpg) | Feather Moon               | [76561198209739035](https://steamcommunity.com/profiles/76561198209739035/) | ✅           | 2022-12-05 14:25:59 |          |
 | ![](https://avatars.steamstatic.com/18e43a7698b72b1aa4811bb6b375945a700f69db.jpg) | 神杀                         | [76561199085303943](https://steamcommunity.com/profiles/76561199085303943/) | ✅           | 2023-01-06 03:36:06 |          |
 | ![](https://avatars.steamstatic.com/44b65fa70c3df3819aa00d7b9cb13a40ac7cc2dc.jpg) | 北梦                         | [76561199182935990](https://steamcommunity.com/profiles/76561199182935990/) | ✅           | 2024-10-20 13:53:15 |          |
+| ![](https://avatars.steamstatic.com/2f90ccba339be0ae6f16ad0539b33cd9bdc46f30.jpg) | 蕾娜·列隻敦瑙爾                   | [76561198448396198](https://steamcommunity.com/profiles/76561198448396198/) | ✅           | 2024-11-09 18:06:21 |          |
